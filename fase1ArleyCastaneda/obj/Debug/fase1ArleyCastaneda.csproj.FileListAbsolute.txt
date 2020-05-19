@@ -1,0 +1,26 @@
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.exe.config
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.exe
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.pdb
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.csprojResolveAssemblyReference.cache
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Form1.resources
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Properties.Resources.resources
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.csproj.GenerateResource.Cache
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.exe
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.pdb
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Login.resources
+C:\Users\Alphaikaros\Documents\Visual Studio 2015\Projects\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Reporte.resources
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.exe.config
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.exe
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.pdb
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.exe
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.pdb
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.csprojResolveAssemblyReference.cache
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Form1.resources
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Login.resources
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Reporte.resources
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.Properties.Resources.resources
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.csproj.GenerateResource.Cache
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.exe.manifest
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\bin\Debug\fase1ArleyCastaneda.application
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.exe.manifest
+C:\Users\arley.arley-PC\Documents\fase1ArleyCastaneda\fase1ArleyCastaneda\obj\Debug\fase1ArleyCastaneda.application
